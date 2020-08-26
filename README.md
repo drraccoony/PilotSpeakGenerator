@@ -1,7 +1,7 @@
 # PilotSpeakGenerator
 A simple and straight forward phrase generatior to help me talk like pilots and fit in with the crowd.
 
-## Generation examples
+## Phrase examples
 > **The night recurrent on my check ride while based in NY was in question by my chief pilot.**
 
 > **The crew meals on the 737 MAX during my last trip was super f^$ked up.**
