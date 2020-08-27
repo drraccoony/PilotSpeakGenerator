@@ -1,4 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # PilotSpeakGenerator
 A simple and straight forward phrase generatior to help me talk like pilots and fit in with the crowd.
 
@@ -14,5 +13,4 @@ Simply chooses random words from several pre-defined arrays and piecing them tog
 
 A live version of this project can be found @ https://drraccoon.me/pilot/
 
-## License
-GNU GPLv3
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
