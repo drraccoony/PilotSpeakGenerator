@@ -1,3 +1,4 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # PilotSpeakGenerator
 A simple and straight forward phrase generatior to help me talk like pilots and fit in with the crowd.
 
@@ -12,3 +13,6 @@ A simple and straight forward phrase generatior to help me talk like pilots and 
 Simply chooses random words from several pre-defined arrays and piecing them together using `array_rand()`. Also uses some javascript to copy text to the users clipboard via a button press. Keeps track of usage via a flat file `totalgens.txt` via  a `intval()` function.
 
 A live version of this project can be found @ https://drraccoon.me/pilot/
+
+## License
+GNU GPLv3
